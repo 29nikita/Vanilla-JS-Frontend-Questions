@@ -1,0 +1,17 @@
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+section{
+    display: flex;
+}
+
+.star-style{
+    fill: yellowgreen;
+}
+
+.star-style:hover{
+    fill: yellowgreen;
+}
